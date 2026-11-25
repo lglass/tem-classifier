@@ -101,3 +101,7 @@ gradient clipping) are set in code in `cryoclassifier.py` and `training.py`.
 | `update_training_set.py` | Seeded training-set builder |
 | `models.py`, `losses.py`, `training.py` | Model, losses, optimizer/epoch loops |
 | `dataset.py`, `label_utils.py`, `utils_cs.py` | Data loading, label maps, CryoSPARC helpers |
+
+# References
+
+Glass, L., Abrahams, J. P., & Braun, T. (2026). CryoConvNeXt enables robust identification of low-abundance molecular species in experimental cryo-EM data. bioRxiv. [https://doi.org/10.64898/2026.09.08.750038](https://doi.org/10.64898/2026.09.08.750038)
